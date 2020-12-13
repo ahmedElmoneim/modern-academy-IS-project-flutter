@@ -1,0 +1,2 @@
+
+const String FIREBASE_API_KEY = 'AIzaSyAhkX2WhW2g3pefFDkLN3NcnH_FkbDJFFQ';
